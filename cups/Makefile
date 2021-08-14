@@ -171,7 +171,7 @@ define Build/Configure
 		--disable-acl \
 		--disable-dnssd \
 		--disable-dbus \
-		--disable-avahi \
+		--enable-avahi \
 		--disable-launchd \
 		--disable-ldap \
 		--disable-pam \
